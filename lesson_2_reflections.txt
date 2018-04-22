@@ -2,3 +2,5 @@ git init command is the building block of a project,it contains and houses
 all the collection of files the makes up a repo
 the staging area is like preparing our files ready for commit . it si more or less
 go between for our working directory and repo
+by using git reset to unstage file we can make sure we are adding one logical change
+per commit.
