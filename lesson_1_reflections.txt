@@ -1,0 +1,9 @@
+comparing the two files show the changes made between the two files br
+and when that is done one can easily spot what the bug might be .
+
+The use of git log and git diff to view a file history and identify where a bug might
+be.
+
+The confident use of Git is a life saver
+
+I will like to use git to learn changing my career
