@@ -5,3 +5,4 @@ go between for our working directory and repo
 by using git reset to unstage file we can make sure we are adding one logical change
 per commit.
 in order to make experimental changes to our code its good to know how to use branches.
+we merge two branches to be able to collaborate on a project and save experimental changes
