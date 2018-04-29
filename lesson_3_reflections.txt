@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Seeing the old file alongside the new file was very helpful.  Using a mac, the (-)and(+) signs make it simple to spot any content that has changed.
+
+************************************************************************
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Looking at previous versions allows you to see mistakes/inefficiencies in your code which will help you prevent making them again as you move forward, making you a better programmer.
+
+************************************************************************
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+When you manually commit, you are more likely to have meaningful differences between each version of the file you're working on.  This means you each version is more likely to be able to function on it's own if your code is error free, but also there will be clear and concise differences between versions.
+
+The advantage for automatic saving is that this protects against user error, if you forget to save the file you are working on.
+
+************************************************************************
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I am not sure.
+
+************************************************************************
+
+How can you use the commands git log and git diff to view the history of files?
+
+Use git log to view a listing of each commit, each with its own unique commit ID.  Then use the command git diff with the commit ID's of the files you want to compare.
+
+************************************************************************
+
+How might using version control make you more confident to make changes that could break something?
+
+You can always revert back to a previous commit (checkout a commit) that you know works.  If you did break the program with the new commit, use git diff to see the differences between your two most recent commits.
+
+************************************************************************
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Building apps!!!
